@@ -1,3 +1,5 @@
+## Hi there!
+
 ## :information_source: Information
 
 - Name: Kosuke Harada
