@@ -2,13 +2,14 @@
 
 ## :information_source: Information
 
-- Name: Kosuke Harada
+- Name: HARADA, Kosuke
 - Location: Japan
-- Language: Japanese(Native), English(Conversational)
-- Language: Python, Swift, C++, Rust
+- Languages: Japanese(Native), English(Conversational)
+- Languages: Python, Swift, C++, Rust
 - Job: Product manager (in energy industry)
-- Interest: Optimization, Renewable energy
+- Interest: Optimization, Design, Renewable energy
 - Twitter: [@harako0501](https://twitter.com/harako0501)
+- AtCoder: [@hato0501](https://atcoder.jp/users/hato0501)
 
 
 ## Research
