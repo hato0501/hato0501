@@ -13,4 +13,4 @@
 
 ## Research
 
-- [Google Scholar](https://scholar.google.co.jp/citations?user=2j50mF4AAAAJ&hl=ja)https://scholar.google.co.jp/citations?user=2j50mF4AAAAJ&hl=ja
+- [Google Scholar](https://scholar.google.co.jp/citations?user=2j50mF4AAAAJ&hl=ja)
