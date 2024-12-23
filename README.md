@@ -16,6 +16,7 @@
 - [Google Scholar](https://scholar.google.co.jp/citations?user=2j50mF4AAAAJ&hl=ja)
 
 ## Cases (in Japanese)
+- [AWS 活用事例](https://aws.amazon.com/jp/solutions/case-studies/eneos/)
 - [AWS Support 事例 Webinar](https://aws.amazon.com/jp/blogs/news/support-webinar-20240927/)
 - [TDCソフト株式会社さま事例](https://www2.tdc.co.jp/digitaltechnology/cases/152/)
 - [株式会社BeeXさま事例](https://www.beex-inc.com/case/eneos)
